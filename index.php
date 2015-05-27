@@ -114,15 +114,15 @@ if(isset($_POST['submitted'])) {
               <img id="iphoneWhite" class="img-responsive" src="images/iphoneWhite.png" alt="iphone" />
             </div>
         		<div class="col-lg-6 slideText">
-          		<h1><span>Safely</span> Insures what is valuable to you and how that gets passed on</h1>
-          		<p>Safely gives you peace of mind about your most important and treasured information passing to the right people. Be Sure. Be secure. Be <span>Safely.</p><br/>
+          		<h1><span>Safely</span> Insures how what's valuable to you gets passed on</h1>
+          		<p>Safely gives you peace of mind about your most treasured information passing to the right people. Be Sure. Be secure. Be <span>Safely.</p><br/>
           		<a href="http://go.getsafely.com/" class="buttonSmall">Free sign up</a>
       		  </div>
           </li><!-- END Slide 1 -->
           <li>
             <div class="col-lg-6">
-              <img id="ipadWhite" src="images/ipadWhite.png" alt="ipad white" />
-              <img id="ipadBlack" src="images/ipadBlack.png" alt="ipad black" />
+              <img id="ipadWhite" src="images/ipad-white.png" alt="ipad white" />
+              <img id="ipadBlack" src="images/ipad.png" alt="ipad black" />
             </div>
             <div class="col-lg-5 col-lg-offset-1 slideText">
               <h1>Don't leave important info to chance</h1>

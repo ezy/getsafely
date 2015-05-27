@@ -1,6 +1,11 @@
 .jumbotron {
   text-shadow: none;
 }
+.jumbotron h1 {
+  font-family:Proxima Nova Light, Helvetica, Arial;
+  font-size: 40px;
+  margin-bottom: 30px;
+}
 .col-lg-5.col-lg-offset-1.slideText {
   background-color: rgba(0,0,0,0.3);
 }
