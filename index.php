@@ -114,9 +114,8 @@ if(isset($_POST['submitted'])) {
               <img id="iphoneWhite" class="img-responsive" src="images/iphoneWhite.png" alt="iphone" />
             </div>
         		<div class="col-lg-6 slideText">
-          		<h1><span>Safely</span> insures your digital life</h1>
-          		<p>Safely gives you peace of mind about your most 
-              important electronic information. Be sure. Be secure. Be <span>Safely.</p><br/>
+          		<h1><span>Safely</span> Insures what is valuable to you and how that gets passed on</h1>
+          		<p>Safely gives you peace of mind about your most important and treasured information passing to the right people. Be Sure. Be secure. Be <span>Safely.</p><br/>
           		<a href="http://go.getsafely.com/" class="buttonSmall">Free sign up</a>
       		  </div>
           </li><!-- END Slide 1 -->
@@ -127,14 +126,13 @@ if(isset($_POST['submitted'])) {
             </div>
             <div class="col-lg-5 col-lg-offset-1 slideText">
               <h1>Don't leave important info to chance</h1>
-              <p>Safely makes sure that your digital files are passed onto the right people in the event
-                that you're unable to pass that information on yourself.</p>
+              <p>Safely makes sure that your personal files and secrets are passed onto the right people in the event that you’re unable to pass that information on yourself.</p>
               <a href="http://go.getsafely.com/" class="buttonSmall">Sign up today</a>
           </div>
           </li><!-- END Slide 2 -->
           <li style="text-align:center;">
             <h1><span>Safely</span> is essential</h1>
-            <p>Know what's happening to your most important information today</p>
+            <p>Know what’s happening to your most important and personal information today for tomorrow</p>
             <img id="bubbleGraphic" src="images/bubbleGraphic.png" alt="" />
             <ul id="slideThreeList">
               <li>Be sure</li>
@@ -158,7 +156,7 @@ if(isset($_POST['submitted'])) {
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <h2>Safely secures your <span>important</span> digital documents and sends them on in the event of the unexpected.</h2>
+            <h2>Safely secures your <span>important and personal</span> information and sends them on in the event of the unexpected.</h2>
             <p>Our system checks in with you over a timeframe of your choosing, and sends your loved ones your vault of files if you're unable to respond.</p>
           </div>
         </div>
@@ -174,7 +172,7 @@ if(isset($_POST['submitted'])) {
           <div class="col-lg-4 featureItem">
             <div class="featureIcon" id="gearIcon"></div>
             <h4>Peace of mind</h4>
-            <p>Rest easy knowing that if anything unexpected happens, your digital life can be securely managed by the right people in your life.</p>
+            <p>Rest easy knowing that if anything unexpected happens to you, the information, stories and secrets that you would like to be passed on will be securely managed and sent to the right people in your life</p>
           </div>
           <div class="col-lg-4 featureItem">
             <div class="featureIcon" id="addUserIcon"></div>
@@ -196,7 +194,7 @@ if(isset($_POST['submitted'])) {
           <div class="col-lg-4 featureItem">
             <div class="featureIcon" id="messageIcon"></div>
             <h4>File Gatekeepers</h4>
-            <p>Allow your lawyer, account or financial adviser to manage the sending of the files without being able to see what's stored in the vaults.</p>
+            <p>This is an option for important time sensitive information. You may allow a trusted person such as a lawyer, accountant or advisor to manage sending your selected files to the people of your choice without being able to see what’s in those vaults.</p>
           </div>
           <div class="col-lg-4 featureItem">
             <div class="featureIcon" id="connectIcon"></div>
@@ -401,14 +399,14 @@ if(isset($_POST['submitted'])) {
               <a href="images/Add-vault.png" data-lightbox="screenshot2" title="Then, add your vault" class="overlay"><img class="linkIcon" src="images/icons/linkIcon.png" alt="" /></a>
               </div>
             <h4>Create file vaults</h4>
-            <p>You can create file vaults for specific files that need to be sent to specific people. Create as many as you need for anything from your will, to a list of your social media accounts and passwords.</p>
+            <p>You can create file vaults for specific files that need to be sent to specific people. Create as many as you need from your will, to video messages, accounts or the roll of cash hidden under your mattress.</p>
           </div>
           <div class="col-lg-3">
               <div class="image">
               <img src="images/Specify-send-thumb.png" class="screenshotImage" alt="Specify send" />
               <a href="images/Specify-send.png" data-lightbox="screenshot3" title="First, add your vault" class="overlay"><img class="linkIcon" src="images/icons/linkIcon.png" alt="" /></a>
               </div>
-            <h4>Setup you vault</h4>
+            <h4>Setup your vault</h4>
             <p>Once your vault is created you can choose who the files need to be sent to, who can be a gatekeeper, a brief description of the files, and how often you want the system to check in with you.</p>
           </div>
           <div class="col-lg-3">
